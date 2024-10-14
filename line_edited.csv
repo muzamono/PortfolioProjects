@@ -1,0 +1,623 @@
+line_cd,company_cd,line_name_en,line_name_h_en,lon,lat,zoom,e_status,e_sort
+1001,3,Chuuou shinkansen,Chuuou shinkansen,137.4938965,35.41143805,8,1,1001
+1002,3,Toukaidou shinkansen,Toukaidou shinkansen,137.7214887,35.14412194,7,0,1002
+1003,4,San'You shinkansen,San'You shinkansen,133.1478961,34.4193377,7,0,1003
+1004,2,Touhoku shinkansen,Touhoku shinkansen,140.7631922,38.27426694,7,0,1004
+1005,2,Jouetsu shinkansen,Jouetsu shinkansen,139.121488,36.79856473,8,0,1005
+1006,2,Jouetsu shinkansen (gala Yuzawa shisen),Jouetsu shinkansen (gala Yuzawa shisen),138.8032504,36.94288211,14,0,1006
+1007,2,Yamagata shinkansen,Yamagata shinkansen,140.1684778,37.58820881,8,0,1007
+1008,2,Akita shinkansen,Akita shinkansen,140.3622538,37.75728895,7,0,1008
+1009,2,Hokuriku shinkansen,Hokuriku shinkansen,138.0356977,36.18598137,7,0,1009
+1010,6,Kyuushuu shinkansen,Kyuushuu shinkansen,130.5768238,32.79428002,8,0,1010
+1011,1,Hokkaidou shinkansen,Hokkaidou shinkansen,140.6442261,42.09414637,7,0,1011
+1012,6,Nishi Kyuushuu shinkansen,Nishi Kyuushuu shinkansen,130.0229,33.196289,9,0,1012
+11101,1,JR Hakodate honsen (Hakodate~ Oshamanbe),JR Hakodate honsen (Hakodate~ Oshamanbe),140.4833697,42.23981411,9,0,11101
+11102,1,JR Hakodate honsen (Oshamanbe~ Otaru),JR Hakodate honsen (Oshamanbe~ Otaru),140.6428878,42.91991023,9,0,11102
+11103,1,JR Hakodate honsen (Otaru~ Asahikawa),JR Hakodate honsen (Otaru~ Asahikawa),141.6979108,43.4150974,9,0,11103
+11104,1,JR Muroran honsen (Oshamanbe/Muroran~ Tomakomai),JR Muroran honsen (Oshamanbe/Muroran~ Tomakomai),141.0063937,42.57071674,9,0,11104
+11105,1,JR Muroran honsen (Tomakomai~ Iwamizawa),JR Muroran honsen (Tomakomai~ Iwamizawa),141.7444991,42.93841714,10,0,11105
+11106,1,JR Nemuro honsen (Takigawa~ Furano),JR Nemuro honsen (Takigawa~ Furano),142.15,43.5,10,0,11106
+11107,1,JR Nemuro honsen (Shintoku~ Kushiro),JR Nemuro honsen (Shintoku~ Kushiro),143.5647441,42.9656747,9,0,11107
+11108,1,Hanasakisen,JR Nemuro honsen (Kushiro~ Nemuro),145.0642882,43.12755462,9,0,11108
+11109,1,JR Chitosesen,JR Chitosesen,141.5675688,42.88585087,10,0,11109
+11110,1,JR sekishousen,JR sekishousen,142.1208103,42.97760967,9,0,11110
+11111,1,JR Hidaka honsen,JR Hidaka honsen,142.1892282,42.43948998,9,0,11111
+11112,1,JR satsu numasen,JR satsu numasen,141.6575101,43.33044878,10,0,11112
+11113,1,JR Rumoi honsen,JR Rumoi honsen,141.763792,43.84733117,10,0,11113
+11114,1,JR Furanosen,JR Furanosen,142.4293334,43.60983839,10,0,11114
+11115,1,JR Souya honsen,JR Souya honsen,142.225614,44.6587297,8,0,11115
+11116,1,JR Sekihoku honsen,JR Sekihoku honsen,143.3629461,43.9613877,8,0,11116
+11117,1,JR senmou honsen,JR senmou honsen,144.4337656,43.52373901,9,0,11117
+11118,1,JR kaikyousen,JR kaikyousen,140.329047,41.36657457,9,0,11118
+11119,1,JR Esashisen,JR Esashisen,140.4168208,41.7753819,10,2,11119
+11201,2,JR Touhoku honsen (Hachinohe~ Aomori),JR Touhoku honsen (Hachinohe~ Aomori),141.1472278,40.69791852,10,2,11201
+11202,2,JR Ouu honsen (Shinjou~ Aomori),JR Ouu honsen (Shinjou~ Aomori),140.4427173,39.92227066,8,0,11202
+11231,2,JR Touhoku honsen (Kuroiso~ Rifu/Morioka),JR Touhoku honsen (Kuroiso~ Rifu/Morioka),140.8981249,38.46142404,8,0,11202
+11203,2,Hamanasu bay line Oominatosen,JR Oominatosen,141.2341889,41.07704833,10,0,11203
+11204,2,JR gonousen,JR gonousen,140.1536,40.62248824,9,0,11204
+11205,2,JR Tsugarusen,JR Tsugarusen,140.6379643,40.99724898,10,0,11205
+11206,2,JR Hachinohesen,JR Hachinohesen,141.7019344,40.40264308,10,0,11206
+11207,2,JR Iwaizumisen,JR Iwaizumisen,141.7110907,39.75256666,11,2,11207
+11208,2,Dragon rail Oofunatosen,JR Oofunatosen,141.4724298,38.96164069,10,0,11208
+11209,2,Ginga dream line Kamaishisen,JR Kamaishisen,141.5279124,39.32636455,10,0,11209
+11210,2,JR Kitakamisen,JR Kitakamisen,140.8466239,39.30471879,10,0,11210
+11211,2,JR Tazawakosen,JR Tazawakosen,140.7685672,39.6934485,10,0,11211
+11212,2,Towada Hachimantai Shiki Aya line,JR hanawasen,140.8453488,40.13373143,10,0,11212
+11213,2,JR Yamada sen,JR Yamada sen,141.6667874,39.59692922,9,0,11213
+11214,2,JR uetsu honsen,JR uetsu honsen,139.7617803,38.73294117,8,0,11214
+11215,2,JR Ogasen,JR Ogasen,139.958679,39.89239988,11,0,11215
+11216,2,Yamagatasen,JR Ouu honsen (Fukushima~ Shinjou),140.2833537,38.30771536,9,0,11216
+11217,2,JR sen yamasen,JR sen yamasen,140.5996186,38.31470035,10,0,11217
+11218,2,Fruit line hidari Sawa sen,JR hidari Sawa sen,140.2808095,38.33565073,12,0,11218
+11219,2,JR yonezakasen,JR yonezakasen,139.7703569,38.04498397,10,0,11219
+11220,2,Oku no hosomichi Mogami kawa line,JR rikuu saisen,140.0961846,38.75534124,10,0,11220
+11221,2,Oku no hosomichi yukemuri line,JR rikuu Higashisen,140.6813043,38.73003972,10,0,11221
+11222,2,JR sengokusen,JR sengokusen,141.0726418,38.36634216,11,0,11222
+11223,2,JR Ishinomakisen,JR Ishinomakisen,141.2522992,38.48686849,11,0,11223
+11224,2,JR Kesennumasen,JR Kesennumasen,141.4644576,38.69617975,10,0,11224
+11225,2,JR ban'etsu saisen (Kooriyama~ Aizuwakamatsu),JR ban'etsu saisen (Kooriyama~ Aizuwakamatsu),140.1307905,37.51773393,10,0,11225
+11226,2,Mori to mizu to roman no tetsudou,JR ban'etsu saisen,139.121445,37.800383,9,0,11226
+11227,2,JR Tadamisen,JR Tadamisen,139.4478074,37.39176462,9,0,11227
+11228,2,Yuuyuu Abukuma line,JR ban'etsu Higashisen,140.6426123,37.26977724,10,0,11228
+11229,2,JR Joubansen (Toride~ Iwaki),JR Joubansen (Toride~ Iwaki),140.5188744,36.51900406,9,0,11229
+11230,2,JR Joubansen (Iwaki~ Sendai),JR Joubansen (Iwaki~ Sendai),140.9334199,37.66155605,9,0,11230
+11301,2,JR Toukaidou honsen (Tokyo~ Atami),JR Toukaidou honsen (Tokyo~ Atami),139.4302441,35.39507962,10,0,11301
+11302,2,JR yamatesen,JR yamatesen,139.7352228,35.69302731,12,0,11302
+11303,2,JR nanbusen,JR nanbusen,139.5621831,35.62126802,11,0,11303
+11304,2,JR Tsurumisen,JR Tsurumisen,139.6973422,35.50322702,13,0,11304
+11305,2,JR Musashinosen,JR Musashinosen,139.7051131,35.80257708,10,0,11305
+11306,2,JR Yokohamasen,JR Yokohamasen,139.4711185,35.56100411,11,0,11306
+11307,2,JR Negishi sen,JR Negishi sen,139.5986788,35.41484559,12,0,11307
+11308,2,JR Yokosukasen,JR Yokosukasen,139.6476186,35.48340539,10,0,11308
+11309,2,JR Sagamisen,JR Sagamisen,139.3678017,35.48317493,11,0,11309
+11311,2,JR chuuou honsen (Tokyo~ Shiojiri),JR chuuou honsen (Tokyo~ Shiojiri),138.617358,35.77036734,9,0,11311
+11312,2,JR chuuousen (kaisoku),JR chuuousen (kaisoku),139.5379885,35.70017042,10,0,11312
+11313,2,JR chuuou/soubusen,JR chuuou/soubu kankousen,139.8371552,35.70164136,10,0,11313
+11314,2,JR soubu honsen,JR soubu honsen,140.2546612,35.68790263,9,0,11314
+11315,2,JR Oumesen,JR Oumesen,139.2400414,35.78257265,11,0,11315
+11316,2,JR Itsukaichisen,JR Itsukaichisen,139.2916574,35.72583044,12,0,11316
+11317,2,JR hachikousen (Hachiouji~ Komagawa),JR hachikousen (Hachiouji~ Komagawa),139.3329938,35.78050242,11,0,11317
+11318,2,JR hachikousen (Komagawa~ Takasaki),JR hachikousen (Komagawa~ Takasaki),139.1796533,36.12104162,10,0,11318
+11319,2,Utsunomiyasen,JR Touhoku honsen,139.846403,36.37943924,9,0,11319
+11320,2,JR Joubansen (Ueno~ Toride),JR Joubansen (Ueno~ Toride),139.9238125,35.81971933,11,0,11320
+11321,2,JR saikyousen,JR saikyousen,139.6182015,35.80319582,11,0,11321
+11322,2,JR Kawagoesen,JR Kawagoesen,139.4693426,35.90961046,11,0,11322
+11323,2,JR Takasakisen,JR Takasakisen,139.4521807,36.09573564,9,0,11323
+11324,2,JR Sotobousen,JR Sotobousen,140.2798303,35.34873907,10,0,11324
+11325,2,JR Uchibousen,JR Uchibousen,139.9480808,35.29328827,9,0,11325
+11326,2,JR Keiyousen,JR Keiyousen,139.93611,35.64364962,11,0,11326
+11327,2,JR Naritasen,JR Naritasen,140.3723884,35.86276466,10,0,11327
+11328,2,JR Narita express,JR Narita express,139.7571982,35.69212092,9,0,11328
+11329,2,JR Kashimasen,JR Kashimasen,140.5646973,35.94268442,12,0,11329
+11330,2,JR Kururisen,JR Kururisen,140.0464997,35.3506777,11,0,11330
+11331,2,JR Touganesen,JR Touganesen,140.3680586,35.56232866,12,0,11331
+11332,2,JR Keihin touhokusen,JR Keihin touhokusen,139.6425121,35.63929556,10,0,11332
+11333,2,JR Shounan Shinjuku line,JR Shounan Shinjuku line,139.6229437,35.65739974,10,0,11333
+11343,2,Ueno Tokyo line,Ueno Tokyo line,139.7721004,35.69745581,14,0,11333
+11334,2,JR Karasuyamasen,JR Karasuyamasen,140.0649785,36.65874003,12,0,11334
+11335,2,JR Azumasen,JR Azumasen,138.7913036,36.55204126,10,0,11335
+11337,2,JR Shin'Etsu honsen,JR Shin'Etsu honsen,138.8807751,36.33038234,11,0,11337
+11338,2,JR Suigunsen,JR Suigunsen,140.4621536,36.92204743,9,0,11338
+11339,2,JR Mitosen,JR Mitosen,140.0513207,36.33356509,10,0,11339
+11340,2,JR Nikkousen,JR Nikkousen,139.7529407,36.63614345,11,0,11340
+11341,2,JR Ryoumousen,JR Ryoumousen,139.38788,36.35677395,10,0,11341
+11342,2,JR Jouetsusen,JR Jouetsusen,138.8924192,36.9153866,9,0,11342
+11401,2,Koumisen,JR Koumisen,138.422021,36.326337,10,0,11401
+11402,3,JR Minobusen,JR Minobusen,138.532397,35.39216324,10,0,11402
+11403,2,JR Shin'Etsu honsen (Shinonoi~ Nagano),JR Shin'Etsu honsen (Shinonoi~ Nagano),138.1598163,36.60859597,12,0,11403
+11404,2,JR Shin'Etsu honsen (Naoetsu~ Niigata),JR Shin'Etsu honsen (Naoetsu~ Niigata),138.7595452,37.51108174,9,0,11404
+11405,4,JR Hokuriku honsen (Toyama~ Naoetsu),JR Hokuriku honsen (Toyama~ Naoetsu),137.7185006,37.01500893,9,2,11405
+11406,2,JR shiro shinsen,JR shiro shinsen,139.1904713,37.92400721,11,0,11406
+11407,2,JR Iiyamasen,JR Iiyamasen,138.5417323,36.98446011,10,0,11407
+11408,2,JR Echigosen,JR Echigosen,138.8340003,37.62674857,10,0,11408
+11409,2,Kitaarupususen,JR Ooitosen,137.8735087,36.67612787,9,0,11409
+11410,2,JR Yahikosen,JR Yahikosen,138.9044353,37.67331836,12,0,11410
+11411,3,JR chuuou honsen (Nagoya~ Shiojiri),JR chuuou honsen (Nagoya~ Shiojiri),137.468492,35.6624711,9,0,11411
+11412,2,JR Shinonoisen,JR Shinonoisen,138.0172774,36.38422475,10,0,11412
+11413,3,JR Iidasen (Toyohashi~ Tenryuukyou),JR Iidasen (Toyohashi~ Tenryuukyou),137.6689494,35.12564791,10,0,11413
+11414,3,JR Iidasen (Tenryuukyou~ Tatsuno),JR Iidasen (Tenryuukyou~ Tatsuno),137.8986353,35.75990218,10,0,11414
+11415,4,JR Hokuriku honsen (Maibara~ Tsuruga),JR Hokuriku honsen (Maibara~ Tsuruga),136.4425104,36.33393306,8,0,11415
+11416,3,JR Takayama honsen,JR Takayama honsen,137.1437387,36.03506978,9,0,11416
+11417,4,JR Jouhanasen,JR Jouhanasen,136.9630801,36.64686113,11,0,11417
+11418,4,JR Himisen,JR Himisen,137.016787,36.80602651,12,0,11418
+11419,4,JR Nanaosen,JR Nanaosen,136.7916271,36.8807224,10,0,11419
+11420,4,Tsurugakousen,JR Hokuriku honsen (Tsuruga~ Tsurugakou),136.0755333,35.65634921,14,2,11420
+11421,4,Kuzuryuusen,JR Koshi bi hokusen,136.4413114,35.99858409,10,0,11421
+11422,4,JR Obamasen,JR Obamasen,135.7418184,35.53015548,10,0,11422
+11501,3,JR Toukaidou honsen (Atami~ Hamamatsu),JR Toukaidou honsen (Atami~ Hamamatsu),138.3888098,34.94909732,9,0,11501
+11502,3,JR Toukaidou honsen (Hamamatsu~ Gifu),JR Toukaidou honsen (Hamamatsu~ Gifu),137.129185,35.04642183,9,0,11502
+11503,3,JR Toukaidou honsen (Gifu~ Mino Akasaka/Maibara),JR Toukaidou honsen (Gifu~ Mino Akasaka/Maibara),136.5281548,35.36362897,10,0,11503
+11504,2,JR Itousen,JR Itousen,139.0696551,35.04759233,12,0,11504
+11505,3,JR Gotenbasen,JR Gotenbasen,139.0331425,35.22246077,11,0,11505
+11506,3,JR Taketoyosen,JR Taketoyosen,136.9586884,34.93257927,12,0,11506
+11507,3,JR taitasen,JR taitasen,137.0625923,35.39115836,12,0,11507
+11508,3,JR Kansai honsen (Nagoya~ Kameyama),JR Kansai honsen (Nagoya~ Kameyama),136.6393149,35.03333933,10,0,11508
+11509,4,JR Kansai honsen (Kameyama~ Kamo),JR Kansai honsen (Kameyama~ Kamo),136.1749894,34.80143442,10,0,11509
+11510,3,JR Kisei honsen,JR Kisei honsen,136.2872619,34.32154395,9,0,11510
+11511,4,JR Kusatsusen,JR Kusatsusen,136.1045246,34.96458574,11,0,11511
+11512,3,JR sanguusen,JR sanguusen,136.6987801,34.495826,11,0,11512
+11513,3,JR meishousen,JR meishousen,136.3881753,34.60028532,11,0,11513
+11601,4,Biwakosen,JR Toukaidou honsen (Maibara~ Kyoto),136.0951369,35.11930883,10,0,11601
+11602,4,JR Kyotosen,JR Toukaidou honsen (Kyoto~ Osaka),135.495188,34.702398,11,0,11602
+11603,4,JR Koubesen (Osaka~ Koube),JR Toukaidou honsen (Osaka~ Koube),135.3347285,34.72876179,11,0,11603
+11605,4,JRko saisen,JRko saisen,135.9648814,35.24644583,10,0,11605
+11607,4,Yamato rosen,JR Kansai honsen (Kamo~ JR Nanba),135.6774159,34.65043379,11,0,11607
+11608,4,JR Koubesen (Koube~ Himeji),JR San'You honsen (Koube~ Himeji),134.9283387,34.71997139,10,0,11608
+11609,4,JR San'You honsen (Himeji~ Okayama),JR San'You honsen (Himeji~ Okayama),134.2462107,34.81352156,10,0,11609
+11610,4,JR San'You honsen (Okayama~ Mihara),JR San'You honsen (Okayama~ Mihara),133.5637577,34.5230414,10,0,11610
+11611,4,JR San'You honsen (Mihara~ Iwakuni),JR San'You honsen (Mihara~ Iwakuni),132.5497997,34.3865014,10,0,11611
+11612,4,JR San'You honsen (Iwakuni~ Moji),JR San'You honsen (Iwakuni~ Moji),131.6063428,34.07166445,9,0,11612
+11613,4,JR San'You honsen (Hyougo~ Wada Misaki),JR San'You honsen (Hyougo~ Wada Misaki),135.167942,34.66577552,14,0,11613
+11614,4,Saganosen,JR San'In honsen (Kyoto~ Sonobe),135.6041557,35.05307104,11,0,11614
+11615,4,JR San'In honsen (Sonobe~ Toyooka),JR San'In honsen (Sonobe~ Toyooka),135.0886844,35.32609457,10,0,11615
+11616,4,JR San'In honsen (Toyooka~ Yonago),JR San'In honsen (Toyooka~ Yonago),134.0209022,35.5218286,9,0,11616
+11617,4,Gakken toshisen,JR Katamachisen,135.6901646,34.7599984,11,0,11617
+11618,4,Narasen,Narasen,135.7864342,34.83402323,11,0,11618
+11622,4,JR Maizurusen,JR Maizurusen,135.2793138,35.36774424,11,0,11622
+11623,4,Osaka kanjousen,Osaka kanjousen,135.5021892,34.68154143,13,0,11623
+11624,4,JR yume sakisen,JR Sakurajimasen,135.4474452,34.67404443,13,0,11624
+11625,4,JR touzaisen,JR touzaisen,135.4729665,34.70792548,13,0,11625
+11626,4,Hanwasen (Tennouji~ Wakayama),Hanwasen (Tennouji~ Wakayama),135.4011938,34.46154098,10,0,11626
+11627,4,Hagoromosen,Hanwasen (Ootori~ higashi hagoromo),135.4495774,34.53405857,14,0,11627
+11628,4,JR Kansai kuukousen,JR Kansai kuukousen,135.2888684,34.415185,12,0,11628
+11629,4,JR Takarazukasen,JR Fukuchiyamasen (shinOsaka~ Shinoyama kuchi),135.3444349,34.8698929,10,0,11629
+11630,4,Fukuchiyamasen (Shinoyama kuchi~ Fukuchiyama),Fukuchiyamasen (Shinoyama kuchi~ Fukuchiyama),135.105576,35.16077077,11,0,11630
+11631,4,JR Akousen,JR Akousen,134.1974932,34.74727448,10,0,11631
+11632,4,JR Kakogawasen,JR Kakogawasen,134.9525226,34.9370801,11,0,11632
+11633,4,JR hime shinsen (Himeji~ Sayou),JR hime shinsen (Himeji~ Sayou),134.5265431,34.9258616,11,0,11633
+11634,4,JR hime shinsen (Sayou~ Niimi),JR hime shinsen (Sayou~ Niimi),133.8805395,35.0502408,10,0,11634
+11635,4,JR bantansen,JR bantansen,134.7640542,35.11319296,10,0,11635
+11636,4,JR Wakayamasen,JR Wakayamasen,135.5570816,34.36363683,10,0,11636
+11637,4,Man'you mahorobasen,Sakuraisen,135.8007123,34.58068955,12,0,11637
+11639,4,Ki no kunisen,JR Kisei honsen (Shinguu~ Wakayama),135.4271755,33.83183628,9,0,11639
+11640,4,Kisei honsen (Wakayama~ Wakayama shi),Kisei honsen (Wakayama~ Wakayama shi),135.1783337,34.23803307,14,0,11640
+11641,4,Oosaka higashisen,Oosaka higashisen,135.55,34.69,12,0,11641
+11701,4,JR San'In honsen (Yonago~ Masuda),JR San'In honsen (Yonago~ Masuda),132.5610675,35.20731024,9,0,11701
+11702,4,JR San'In honsen (Masuda~ Shimonoseki),JR San'In honsen (Masuda~ Shimonoseki),131.2726666,34.35940661,9,0,11702
+11703,4,JR haku Sonae sen,JR haku Sonae sen,133.495623,35.05328908,9,0,11703
+11704,4,JR inbisen,JR inbisen,134.1500156,35.26468997,10,0,11704
+11705,4,JR Sakaisen,JR Sakaisen,133.2625398,35.48805798,12,0,11705
+11706,4,JR Kisukisen,JR Kisukisen,133.0214796,35.19925146,11,0,11706
+11707,4,JR Mitsue sen,JR Mitsue sen,132.5629828,34.94301166,10,2,11707
+11708,4,JR Yamaguchisen,JR Yamaguchisen,131.4734848,34.34664277,10,0,11708
+11709,4,JR Uno sen,JR Uno sen,133.9131994,34.57584113,12,0,11709
+11710,4,Seto oohashisen,JR honshi bisansen,133.80944,34.45427589,11,0,11710
+11713,4,JR Kibisen,JR Kibisen,133.8272676,34.68115607,12,0,11713
+11714,4,JR geibisen,JR geibisen,132.9216429,34.77393016,9,0,11714
+11715,4,JR Tsuyamasen,JR Tsuyamasen,133.9227023,34.89119811,10,0,11715
+11716,4,JR Kuresen,JR Kuresen,132.7797393,34.38727696,10,0,11716
+11717,4,JR Kabesen,JR Kabesen,132.4778146,34.45822254,12,0,11717
+11720,4,JR Fukuensen,JR Fukuensen,133.1297841,34.63826629,10,0,11720
+11721,4,JR Ubesen,JR Ubesen,131.3026758,34.01935295,11,0,11721
+11722,4,JR Minesen,JR Minesen,131.1806931,34.23328102,11,0,11722
+11723,4,JR Onodasen,JR Onodasen,131.1936861,33.97855545,12,0,11723
+11724,4,JR iwa tokusen,JR iwa tokusen,132.0569761,34.09347763,11,0,11724
+11801,5,JR dosansen,JR dosansen,133.5702573,33.76640013,9,0,11801
+11802,5,JR koutokusen,JR koutokusen,134.310584,34.24954113,10,0,11802
+11803,5,Yoshi no kawa blue line,JR Tokushimasen,134.1518085,34.04872233,10,0,11803
+11804,5,JR Mugisen,JR Mugisen,134.5084229,33.83996475,10,0,11804
+11805,5,JR Narutosen,JR Narutosen,134.5684284,34.16377798,13,0,11805
+11806,5,JR yosansen,JR yosansen,133.3626593,34.19299177,9,0,11806
+11807,5,JR yosan/Uchikosen,JR yosan/Uchikosen,132.5895168,33.55703537,10,0,11807
+11808,5,Shimanto green line,JR yodosen,132.8223845,33.23287192,10,0,11808
+11901,4,JR Hakata minamisen,JR Hakata minamisen,130.4288095,33.56485012,12,0,11901
+11902,6,JR Kagoshima honsen (Shimonoseki/Mojikou~ Hakata),JR Kagoshima honsen (Shimonoseki/Mojikou~ Hakata),130.6285375,33.83670542,10,0,11902
+11903,6,JR Kagoshima honsen (Hakata~ hachi dai),JR Kagoshima honsen (Hakata~ hachi dai),130.5063075,33.09244602,9,0,11903
+11904,6,JR Kagoshima honsen (Sendai~ Kagoshima),JR Kagoshima honsen (Sendai~ Kagoshima),130.363502,31.65334826,10,0,11904
+11905,6,JR Nagasaki honsen (Tosu~ Nagasaki),JR Nagasaki honsen (Tosu~ Nagasaki),130.1521506,33.12136017,10,0,11905
+11906,6,JR nippou honsen (Mojikou~ Saiki),JR nippou honsen (Mojikou~ Saiki),131.3035516,33.55493531,9,0,11906
+11907,6,JR nippou honsen (Saiki~ Kagoshima chuuou),JR nippou honsen (Saiki~ Kagoshima chuuou),131.447211,32.21697834,8,0,11907
+11908,6,Fukuhoku yutaka sen,JR Sasagurisen,130.5327032,33.61990987,11,0,11908
+11909,6,JR Chikuhisen (Meinohama~ nishi Karatsu),JR Chikuhisen (Meinohama~ nishi Karatsu),130.1294128,33.51164937,11,0,11909
+11910,6,Wakamatsu sen,JR Chikuhou honsen (Wakamatsu~ Orio),130.7521278,33.88822023,12,0,11910
+11911,6,Fukuhoku yutaka sen (Orio~ Katsuragawa),JR Chikuhou honsen (Orio~ Katsuragawa),130.7061142,33.73450091,11,0,11911
+11912,6,Harada sen,JR Chikuhou honsen (Katsuragawa~ Harada),130.6091322,33.5241644,12,0,11912
+11913,6,Yufu kougensen,JR hisashi taihonsen,131.0359949,33.2620623,9,0,11913
+11914,6,JR Hita Hikosansen,JR Hita Hikosansen,130.8729992,33.73,11,0,11914
+11915,6,JR Gotoujisen,JR Gotoujisen,130.7431474,33.63894268,12,0,11915
+11916,6,Umi no chuudousen,JR Kashiisen (nishi Tozaki~ Kashii),130.4041931,33.67670942,12,0,11916
+11917,6,JR Kashiisen (Kashii~ Umi),JR Kashiisen (Kashii~ Umi),130.4729008,33.61956046,12,0,11917
+11918,6,JR Sasebosen,JR Sasebosen,129.9399703,33.18811566,11,0,11918
+11920,6,JR Chikuhisen (nishi Karatsu~ Imari),JR Chikuhisen (nishi Karatsu~ Imari),129.9397357,33.37129522,11,0,11920
+11921,6,JR Karatsusen,JR Karatsusen,130.0774047,33.3354427,11,0,11921
+11922,6,JR Oomurasen,JR Oomurasen,129.9214241,33.00169785,11,0,11922
+11923,6,Aso kougensen,JR houhi honsen,131.2621302,33.01712664,9,0,11923
+11924,6,Sankakusen (a ma kusami sumi sen),JR sankakusen,130.5892981,32.6914496,11,0,11924
+11925,6,Ebi no kougensen (Yatsushiro~ Yoshimatsu),JR Hisatsusen (Yatsushiro~ Yoshimatsu),130.6833119,32.28699732,10,0,11925
+11926,6,JR Hisatsusen (Yoshimatsu~ Hayato),JR Hisatsusen (Yoshimatsu~ Hayato),130.7067465,31.89098429,11,0,11926
+11927,6,JR Miyazaki kuukousen,JR Miyazaki kuukousen,131.4327623,31.89534315,13,0,11927
+11928,6,JR Nichinansen,JR Nichinansen,131.3626539,31.68357655,10,0,11928
+11929,6,Ebi no kougensen,JR kittosen,130.9564017,31.91724391,10,0,11929
+11930,6,JR Ibusuki Makurazakisen,JR Ibusuki Makurazakisen,130.5034109,31.35999955,10,0,11930
+21001,11,Toubu toujousen,Toubu toujousen,139.4596379,35.92121867,10,0,21001
+21002,11,Toubu Isesakisen,Toubu Isesakisen,139.4993413,36.05676642,10,0,21002
+21003,11,Toubu nikkousen,Toubu nikkousen,139.6911602,36.4457974,9,0,21003
+21004,11,Toubu Nodasen,Toubu Nodasen,139.8919126,35.88791322,10,0,21004
+21005,11,Toubu Kameidosen,Toubu Kameidosen,139.8243468,35.70795152,14,0,21005
+21006,11,Toubu daishisen,Toubu daishisen,139.7853229,35.77906123,15,0,21006
+21007,11,Toubu Ogosesen,Toubu Ogosesen,139.3426227,35.95321877,12,0,21007
+21008,11,Toubu Utsunomiyasen,Toubu Utsunomiyasen,139.8178944,36.48379029,12,0,21008
+21009,11,Toubu Kinu kawasen,Toubu Kinu kawasen,139.7071736,36.79812975,12,0,21009
+21010,11,Toubu Sanosen,Toubu Sanosen,139.5680586,36.3288676,12,0,21010
+21011,11,Toubu Kiryuusen,Toubu Kiryuusen,139.3234126,36.36939671,12,0,21011
+21012,11,Toubu Koizumi sen,Toubu Koizumi sen,139.450654,36.25658593,12,0,21012
+22001,12,Seibu Ikebukurosen,Seibu Ikebukurosen,139.4678929,35.79126174,10,0,22001
+22002,12,Seibu Chichibusen,Seibu Chichibusen,139.2047331,35.9217046,11,0,22002
+22003,12,Seibu Yuurakuchousen,Seibu Yuurakuchousen,139.667595,35.740404,14,0,22003
+22004,12,Seibu Toshimasen,Seibu Toshimasen,139.6515168,35.74004317,15,0,22004
+22005,12,Seibu Sayamasen,Seibu Sayamasen,139.4392487,35.77960247,14,0,22005
+22006,12,Leo liner,Seibu Yamaguchisen,139.4314444,35.77056761,14,0,22006
+22007,12,Seibu Shinjukusen,Seibu Shinjukusen,139.5308649,35.77694687,11,0,22007
+22008,12,Seibu Haijimasen,Seibu Haijimasen,139.4131356,35.7328647,12,0,22008
+22009,12,Seibu Seibuensen,Seibu Seibuensen,139.4573715,35.76415058,14,0,22009
+22010,12,Seibu Kokubunjisen,Seibu Kokubunjisen,139.467741,35.7306282,13,0,22010
+22011,12,Seibu Tamakosen,Seibu Tamakosen,139.4685092,35.74104813,13,0,22011
+22012,12,Seibu Tama kawasen,Seibu Tama kawasen,139.5135317,35.67702828,13,0,22012
+23001,13,Keisei honsen,Keisei honsen,140.0722625,35.72628887,10,0,23001
+23002,13,Keisei Oshiagesen,Keisei Oshiagesen,139.8417658,35.73700035,13,0,23002
+23003,13,Keisei Kanamachisen,Keisei Kanamachisen,139.8685851,35.76122201,14,0,23003
+23004,13,Keisei Chibasen,Keisei Chibasen,140.0661343,35.65068345,12,0,23004
+23005,13,Keisei Chihara sen,Keisei Chihara sen,140.1401424,35.57885231,12,0,23005
+23006,13,Narita sky access,Keisei Narita kuukousen,140.04558,35.7834747,10,0,23006
+24001,14,Keiousen,Keiousen,139.5335769,35.67836429,11,0,24001
+24002,14,Keiou Sagamiharasen,Keiou Sagamiharasen,139.4375162,35.625847,12,0,24002
+24003,14,Keiou Takaosen,Keiou Takaosen,139.3084367,35.6433159,13,0,24003
+24004,14,Keiou keibajousen,Keiou keibajousen,139.489623,35.66894537,14,0,24004
+24005,14,Keiou doubutsuensen,Keiou doubutsuensen,139.4099916,35.65746175,14,0,24005
+24006,14,Keiou Inokashirasen,Keiou Inokashirasen,139.6349878,35.67668499,12,0,24006
+24007,14,Keiou shinsen,Keiou shinsen,139.6852505,35.68049853,14,0,24007
+25001,15,Odakyuusen,Odakyuu Odawarasen,139.4347754,35.52853524,11,0,25001
+25002,15,Odakyuu Enoshimasen,Odakyuu Enoshimasen,139.4497755,35.4357481,11,0,25002
+25003,15,Odakyuu Tamasen,Odakyuu Tamasen,139.4602937,35.61945835,13,0,25003
+26001,16,Toukyuu touyokosen,Toukyuu touyokosen,139.668326,35.58608049,11,0,26001
+26002,16,Toukyuu Megurosen,Toukyuu Megurosen,139.6783513,35.60375543,13,0,26002
+26003,16,Toukyuu den'en toshisen,Toukyuu den'en toshisen,139.5846592,35.58324215,11,0,26003
+26004,16,Toukyuu Ooi chou sen,Toukyuu Ooi chou sen,139.6753762,35.60702724,12,0,26004
+26005,16,Toukyuu Ikegamisen,Toukyuu Ikegamisen,139.7062394,35.59393651,13,0,26005
+26006,16,Toukyuu Tama kawasen,Toukyuu Tama kawasen,139.6874327,35.57244164,13,0,26006
+26007,16,Toukyuu Setagayasen,Toukyuu Setagayasen,139.6525419,35.65319678,14,0,26007
+26008,16,Toukyuu kodomo no kunisen,Toukyuu kodomo no kunisen,139.4878591,35.54810976,14,0,26008
+26009,16,Toukyuu Shin'Yokohamasen,Toukyuu Shin'Yokohamasen,139.636167,35.536639,13,0,26009
+27001,17,Keikyuu honsen,Keikyuu honsen,139.6654216,35.47001317,10,0,27001
+27002,17,Keikyuu kuukousen,Keikyuu kuukousen,139.7497837,35.55500125,13,0,27002
+27003,17,Keikyuu daishisen,Keikyuu daishisen,139.7233,35.5356905,14,0,27003
+27004,17,Keikyuu Zushisen,Keikyuu Zushisen,139.5988512,35.31470435,13,0,27004
+27005,17,Keikyuu Kurihamasen,Keikyuu Kurihamasen,139.6682823,35.2287079,12,0,27005
+28001,18,Tokyo metro Ginzasen,Tokyo metro Ginzasen,139.7572081,35.68646095,13,0,28001
+28002,18,Tokyo metro Marunouchisen,Tokyo metro Marunouchisen,139.7004366,35.70518514,12,0,28002
+28003,18,Tokyo metro Hibiyasen,Tokyo metro Hibiyasen,139.7679001,35.69469234,12,0,28003
+28004,18,Tokyo metro touzaisen,Tokyo metro touzaisen,139.8154913,35.68326533,11,0,28004
+28005,18,Tokyo metro Chiyodasen,Tokyo metro Chiyodasen,139.7558612,35.72301167,12,0,28005
+28006,18,Tokyo metro Yuurakuchousen,Tokyo metro Yuurakuchousen,139.7042043,35.73316552,11,0,28006
+28008,18,Tokyo metro Hanzou monsen,Tokyo metro Hanzou monsen,139.7652271,35.68813211,12,0,28008
+28009,18,Tokyo metro nanbokusen,Tokyo metro nanbokusen,139.7343319,35.71029972,12,0,28009
+28010,18,Tokyo metro fukutoshinsen,Tokyo metro fukutoshinsen,139.6866635,35.73144201,12,0,28010
+29001,19,Soutetsu honsen,Soutetsu honsen,139.5091433,35.46560375,11,0,29001
+29002,19,Soutetsu Izumiyasen,Soutetsu Izumiyasen,139.4964929,35.43154135,13,0,29002
+29003,19,Soutetsu/JR chokutsuusen,Soutetsu/JR chokutsuusen,139.5522708,35.57659819,11,0,29003
+29004,19,Soutetsu Shin'Yokohamasen,Soutetsu Shin'Yokohamasen,139.5919,35.497093,13,0,29004
+30001,20,Meitetsu Nagoya honsen,Meitetsu Nagoya honsen,137.0464891,35.09024466,10,0,30001
+30002,20,Meitetsu Toyokawasen,Meitetsu Toyokawasen,137.3620843,34.82916687,13,0,30002
+30003,20,Meitetsu Nishiosen,Meitetsu Nishiosen,137.07579,34.89567965,11,0,30003
+30004,20,Meitetsu Gamagoorisen,Meitetsu Gamagoorisen,137.1490535,34.83015508,12,0,30004
+30005,20,Meitetsu Mikawasen,Meitetsu Mikawasen,137.0397446,35.0278918,11,0,30005
+30006,20,Meitetsu Toyotasen,Meitetsu Toyotasen,137.0949593,35.12029624,12,0,30006
+30007,20,Meitetsu kuukousen,Meitetsu kuukousen,136.8275426,34.87838959,13,0,30007
+30008,20,Meitetsu Tokonamesen,Meitetsu Tokonamesen,136.8720209,35.05218409,11,0,30008
+30009,20,Meitetsu Kouwasen,Meitetsu Kouwasen,136.9060466,34.92375177,11,0,30009
+30010,20,Meitetsu Chita shinsen,Meitetsu Chita shinsen,136.8807923,34.80481608,12,0,30010
+30011,20,Meitetsu chikkousen,Meitetsu chikkousen,136.9056632,35.0918768,14,0,30011
+30012,20,Meitetsu Setosen,Meitetsu Setosen,136.9925433,35.20783035,11,0,30012
+30013,20,Meitetsu Tsushimasen,Meitetsu Tsushimasen,136.778182,35.19835631,12,0,30013
+30014,20,Meitetsu Bisaisen,Meitetsu Bisaisen,136.7443573,35.24366672,11,0,30014
+30015,20,Meitetsu Inuyamasen,Meitetsu Inuyamasen,136.8898647,35.31165711,11,0,30015
+30016,20,Meitetsu Kakamigaharasen,Meitetsu Kakamigaharasen,136.8532538,35.40320428,12,0,30016
+30017,20,Meitetsu Hiromisen,Meitetsu Hiromisen,137.0289762,35.41784153,12,0,30017
+30018,20,Meitetsu Komakisen,Meitetsu Komakisen,136.9396133,35.29631352,12,0,30018
+30019,20,Inuyama monorail,Meitetsu monkey park monorailsen,136.9511615,35.39061782,15,2,30019
+30020,20,Meitetsu Takehanasen,Meitetsu Takehanasen,136.7325031,35.34935108,13,0,30020
+30021,20,Meitetsu Hashimasen,Meitetsu Hashimasen,136.693134,35.31404976,14,0,30021
+31001,21,Kintetsu Nanbasen,Kintetsu Nanbasen,135.5271582,34.66336378,12,0,31001
+31002,21,Kintetsu Kashiharasen,Kintetsu Kashiharasen,135.7855105,34.59665269,11,0,31002
+31003,21,Kintetsu minami Osakasen,Kintetsu minami Osakasen,135.653052,34.57245205,11,0,31003
+31004,21,Kintetsu Yourousen,Kintetsu Yourousen,136.6320124,35.25923222,10,2,31004
+31005,21,Kintetsu Osakasen,Kintetsu Osakasen,135.872054,34.61556505,10,0,31005
+31006,21,Kintetsu Igasen,Kintetsu Igasen,136.1392827,34.73336053,12,2,31006
+31007,21,Kintetsu Yoshinosen,Kintetsu Yoshinosen,135.794504,34.42943968,12,0,31007
+31008,21,Kintetsu yu no yamasen,Kintetsu yu no yamasen,136.5443642,34.99419291,12,0,31008
+31009,21,Kintetsu Yamada sen,Kintetsu Yamada sen,136.5903378,34.56980041,11,0,31009
+31010,21,Kintetsu Tobasen,Kintetsu Tobasen,136.7727458,34.4838102,12,0,31010
+31011,21,Kintetsu Tenrisen,Kintetsu Tenrisen,135.8037012,34.602763,13,0,31011
+31012,21,Kintetsu Doumyoujisen,Kintetsu Doumyoujisen,135.6220294,34.58011802,14,0,31012
+31013,247,Naibusen,Naibusen,136.6051365,34.94951463,13,0,31013
+31014,247,Hachioujisen,Hachioujisen,136.6077976,34.95820819,14,0,31014
+31015,21,Kintetsu Shimasen,Kintetsu Shimasen,136.8269031,34.40319761,11,0,31015
+31016,21,Kintetsu Ikomasen,Kintetsu Ikomasen,135.7029186,34.65409575,13,0,31016
+31017,21,Kintetsu Tawaramotosen,Kintetsu Tawaramotosen,135.743514,34.57463758,13,0,31017
+31018,21,Kintetsu goshosen,Kintetsu goshosen,135.7248733,34.48800185,13,0,31018
+31019,21,Kintetsu Suzukasen,Kintetsu Suzukasen,136.5827958,34.87798499,13,0,31019
+31020,21,Kintetsu Narasen,Kintetsu Narasen,135.6903788,34.68769268,11,0,31020
+31021,21,Kintetsu Shigisen,Kintetsu Shigisen,135.632634,34.62506252,14,0,31021
+31022,21,Kintetsu Naganosen,Kintetsu Naganosen,135.5986759,34.50049475,12,0,31022
+31023,21,Kintetsu Keihan na sen,Kintetsu Keihan na sen,135.6758638,34.69894594,12,0,31023
+31024,21,Nishi Shigi cable,Kintetsu nishi Shigi kousakusen,135.647956,34.61767063,15,0,31024
+31025,21,Kintetsu Kyotosen,Kintetsu Kyotosen,135.7855993,34.85398933,11,0,31025
+31026,21,Ikoma cable,Kintetsu Ikoma kousakusen,135.688804,34.6858188,14,0,31026
+31027,21,Kintetsu Nagoyasen,Kintetsu Nagoyasen,136.643873,34.94306111,10,0,31027
+32001,22,Nankai honsen,Nankai honsen,135.3620307,34.49540979,10,0,32001
+32002,22,Nankai kuukousen,Nankai kuukousen,135.2840674,34.42306792,12,0,32002
+32003,22,Nankai Wakayamakousen,Nankai Wakayamakousen,135.1551397,34.23138086,13,0,32003
+32004,22,Nankai Takashi hamasen,Nankai Takashi hamasen,135.4387343,34.53069292,15,0,32004
+32005,22,Nankai Kadasen,Nankai Kadasen,135.1256245,34.26437499,12,0,32005
+32006,22,Nankai Tana kawasen,Nankai Tana kawasen,135.1448043,34.31836786,14,0,32006
+32007,22,Nankai Takanosen,Nankai Takanosen,135.5432731,34.46533853,9,0,32007
+32008,22,Nankai Takano yama cable,Nankai Takano yama cable,135.5799343,34.23156624,15,0,32008
+32009,22,Nankai Shiomi hashisen,Nankai Shiomi hashisen,135.4864027,34.64835159,13,0,32009
+33001,23,Keihan honsen,Keihan honsen,135.6705644,34.84957679,10,0,33001
+33002,23,Keihan Ujisen,Keihan Ujisen,135.7868899,34.91898738,13,0,33002
+33003,23,Keihan Katanosen,Keihan Katanosen,135.6678686,34.79400316,13,0,33003
+33004,23,Keihan outousen,Keihan outousen,135.772187,35.02313234,14,0,33004
+33005,23,Iwashimizu Yawataguu sandou cable,Keihan kousakusen,135.6997063,34.88334886,16,0,33005
+33006,23,Keihan ishiyama Sakamotosen,Keihan ishiyama Sakamotosen,135.8736875,35.02135481,12,0,33006
+33007,23,Keihan keishinsen,Keihan keishinsen,135.8351757,35.00559948,13,0,33007
+33008,23,Keihan Nakanoshimasen,Keihan Nakanoshimasen,135.5004281,34.69339585,14,0,33008
+34001,24,Hankyuu Koube honsen,Hankyuu Koube honsen,135.3535625,34.73581893,11,0,34001
+34002,24,Hankyuu Takarazuka honsen,Hankyuu Takarazuka honsen,135.4343471,34.78606114,12,0,34002
+34003,24,Hankyuu Kyoto honsen,Hankyuu Kyoto honsen,135.6107341,34.86050585,10,0,34003
+34004,24,Hankyuu Imazusen,Hankyuu Imazusen,135.3546653,34.77069205,13,0,34004
+34005,24,Hankyuu Kouyousen,Hankyuu Kouyousen,135.3287615,34.75283869,14,0,34005
+34006,24,Hankyuu Itamisen,Hankyuu Itamisen,135.4146048,34.77006123,14,0,34006
+34007,24,Hankyuu Minoosen,Hankyuu Minoosen,135.4602157,34.82297851,14,0,34007
+34008,24,Hankyuu Senrisen,Hankyuu Senrisen,135.5133937,34.77089106,12,0,34008
+34009,24,Hankyuu Arashiyamasen,Hankyuu Arashiyamasen,135.6910954,34.99649849,14,0,34009
+35001,25,Hanshin honsen,Hanshin honsen,135.3388145,34.72713809,11,0,35001
+35002,25,Hanshin Nanbasen,Hanshin Nanbasen,135.454218,34.69437586,13,0,35002
+35003,25,Hanshin Mukogawasen,Hanshin Mukogawasen,135.3792246,34.71224333,15,0,35003
+36001,26,Nishitetsu tenjin Oomutasen,Nishitetsu tenjin Oomutasen,130.4695301,33.33736616,10,0,36001
+36002,26,Nishitetsu Dazaifusen,Nishitetsu Dazaifusen,130.525471,33.51078067,14,0,36002
+36003,26,Nishitetsu Amagisen,Nishitetsu Amagisen,130.6000395,33.3745797,12,0,36003
+36004,26,Nishitetsu Kaizukasen,Nishitetsu Kaizukasen,130.4465091,33.71197663,12,0,36004
+99101,101,Sapporo shiei chikatetsu touzaisen,Sapporo shiei chikatetsu touzaisen,141.3772839,43.05654941,11,0,99101
+99102,101,Sapporo shiei chikatetsu nanbokusen,Sapporo shiei chikatetsu nanbokusen,141.3433322,43.06454354,12,0,99102
+99103,101,Sapporo shiei chikatetsu touhousen,Sapporo shiei chikatetsu touhousen,141.3730984,43.07195212,12,0,99103
+99104,252,Sapporo shiden,Sapporo shiden Ichijou/Yamahana kidousen,141.3441983,43.04683982,14,0,99104
+99105,102,Hakodate shiden 2 keitou,Hakodate shiden 2 keitou,140.7473852,41.78054066,13,0,99105
+99106,102,Hakodate shiden 5 keitou,Hakodate shiden 5 keitou,140.7437262,41.77956913,13,0,99106
+99107,103,Furusato gingasen,Hokkaidou chi hoku kougen tetsudou furusato gingasen,143.6400361,43.42292395,9,2,99107
+99108,248,Dounan i sari bi tetsudousen,Dounan i sari bi tetsudousen,140.5858612,41.72930517,11,0,99108
+99201,104,Tsugaru tetsudousen,Tsugaru tetsudousen,140.4475315,40.89185142,11,0,99201
+99202,105,Hiro minami tetsudou hiro minamisen,Hiro minami tetsudou hiro minamisen,140.5487135,40.61175482,12,0,99202
+99203,105,Hiro minami tetsudou Oowanisen,Hiro minami tetsudou Oowanisen,140.5090532,40.56021152,12,0,99203
+99204,106,Towada kankou dentetsu,Towada kankou dentetsu,141.2927017,40.64340823,12,2,99204
+99205,107,Iwate ginga tetsudousen,Iwate ginga tetsudousen,141.188052,40.0496578,10,0,99205
+99206,108,Aoi mori tetsudousen,Aoi mori tetsudousen,141.0521792,40.66322161,9,0,99206
+99207,109,Sanrikutetsu Douhoku riassen,Sanrikutetsu Douhoku riassen,141.8597993,39.91336094,10,2,99207
+99208,109,Sanriku tetsudou riassen,Sanriku tetsudou riassen,141.8071144,39.68226415,9,0,99208
+99209,110,Akita nairikusen,Akita nairiku juukan tetsudou Akita nairikusen,140.4689341,39.91759531,10,0,99209
+99210,111,Choukai sanrokusen,Yuri kougen tetsudou Choukai sanrokusen,140.0943788,39.3150053,11,0,99210
+99211,112,Flower Nagaisen,Yamagata tetsudou flower Nagaisen,140.082424,38.12608279,12,0,99211
+99212,113,Kurihara den'en tetsudousen,Kurihara den'en tetsudousen,141.0332668,38.81574935,11,2,99212
+99213,114,Abukuma kyuukousen,Abukuma kyuukousen,140.6629175,37.9191756,11,0,99213
+99214,115,Sendai shiei chikatetsu nanbokusen,Sendai shiei chikatetsu nanbokusen,140.8799934,38.27625168,12,0,99214
+99218,115,Sendai shiei chikatetsu touzaisen,Sendai shiei chikatetsu touzaisen,140.8881569,38.26109769,12,0,99214
+99215,116,Fukushima koutsuu Iizaka sen,Fukushima koutsuu Iizaka sen,140.4531639,37.79516157,13,0,99215
+99216,117,Aizu tetsudou Aizusen,Aizu tetsudou Aizusen,139.848048,37.28675951,10,0,99216
+99217,118,Sendai kuukousen,Sendai kuukou tetsudou Sendai kuukousen,140.9057989,38.16179524,13,0,99217
+99301,119,Toeidai Edosen,Toeidai Edosen,139.7137042,35.70754623,12,0,99301
+99302,119,Toei Asakusasen,Toei Asakusasen,139.7586038,35.66226194,12,0,99302
+99303,119,Toei Mitasen,Toei Mitasen,139.7032176,35.71883584,12,0,99303
+99304,119,Toei Shinjukusen,Toei Shinjukusen,139.809404,35.68917479,11,0,99304
+99305,119,Tokyo sakura tram (toden Arakawa sen),Toei toden Arakawasen,139.718928,35.711848,13,0,99305
+99342,119,Nippori/Toneri liner,Nippori/Toneri liner,139.7694965,35.78182569,12,0,99305
+99306,120,Chichibu tetsudou Chichibu honsen,Chichibu tetsudou Chichibu honsen,139.2068139,36.1009953,10,0,99306
+99307,121,Saitama kousoku tetsudousen,Saitama kousoku tetsudousen,139.727016,35.84233268,12,0,99307
+99308,122,Isumisen,Isumi tetsudou Isumisen,140.2913395,35.26741095,12,0,99308
+99309,123,Tsukuba express,Shutoken shintoshi tetsudou Tsukuba express,139.9375093,35.90577191,10,0,99309
+99310,124,Minatomiraisen,Minatomirai 21 sen,139.6360988,35.45568264,14,0,99310
+99311,125,Yurikamome,Yurikamome Tokyo rinkai shinkoutsuu rinkaisen,139.7749498,35.64286985,13,0,99311
+99312,126,Watarase keikokusen,Watarase keikoku tetsudou watarase keikokusen,139.3507558,36.53324025,11,0,99312
+99313,127,Yuukarigaokasen,Yamaman Yuukarigaokasen,140.1530485,35.73088307,15,0,99313
+99314,128,Izu Hakone tetsudou Taiyuu yamasen,Izu Hakone tetsudou Taiyuu yamasen,139.1309474,35.28939808,13,0,99314
+99315,129,Hitachinaka kaihin tetsudou Minatosen,Hitachinaka kaihin tetsudou Minatosen,140.5729552,36.37147623,12,0,99315
+99316,130,Blue line,Yokohama shi kousoku tetsudou 1 gou sen/3 gou sen,139.5514823,35.4877675,11,0,99316
+99343,130,Green line,Yokohama shi kousoku tetsudou 4 gou sen,139.5869369,35.5472458,13,0,99316
+99317,131,Kanazawa seaside line,Yokohama shintoshi koutsuu Kanazawa seaside line,139.6311443,35.36215675,13,0,99317
+99318,132,Kantou tetsudou Jousousen,Kantou tetsudou Jousousen,139.9901393,36.11988505,10,0,99318
+99319,132,Kantou tetsudou Ryuugasakisen,Kantou tetsudou Ryuugasakisen,140.1573067,35.91893165,13,0,99319
+99320,133,Enoshima dentetsusen,Enoshima dentetsusen,139.5124071,35.3260882,13,0,99320
+99321,134,New shuttle,Saitama shintoshi koutsuu Inasen,139.6162808,35.96269513,12,0,99321
+99322,135,Kashima tetsudousen,Kashima tetsudousen,140.3911293,36.15897227,12,2,99322
+99323,136,Kashima rinkai tetsudou Ooarai Kashimasen,Kashima rinkai tetsudou Ooarai Kashimasen,140.5428336,36.18730568,10,0,99323
+99324,137,Shibayama tetsudousen,Shibayama tetsudousen,140.3923617,35.76356243,14,0,99324
+99325,138,Kominato tetsudousen,Kominato tetsudousen,140.1273986,35.39584849,11,0,99325
+99326,139,Shounan monorail,Shounan monorail,139.5102446,35.33223249,13,0,99326
+99327,140,Joushin dentetsu,Joushin dentetsu,138.9156343,36.26619008,11,0,99327
+99328,141,Kouge denki tetsudou Kougesen,Kouge denki tetsudou Kougesen,139.1911683,36.41704838,11,0,99328
+99329,142,ShinKeiseisen,ShinKeisei dentetsu shinKeiseisen,139.9704263,35.75905071,12,0,99329
+99330,143,Mooka tetsudou Mookasen,Mooka tetsudou Mookasen,140.0426815,36.44502033,11,0,99330
+99331,144,Chiba toshi monorail 1 gou sen,Chiba toshi monorail 1 gou sen,140.1131079,35.60826509,14,0,99331
+99332,144,Chiba toshi monorail 2 gou sen,Chiba toshi monorail 2 gou sen,140.1410858,35.62639177,13,0,99332
+99333,145,Ryuutetsu Nagareyamasen,Ryuutetsu Nagareyamasen,139.9119926,35.83792664,13,0,99333
+99334,146,Tama monorail,Tama toshi monorailsen,139.4216985,35.69743141,12,0,99334
+99335,147,Choushi dentetsusen,Choushi denki tetsudousen,140.8474032,35.71912821,13,0,99335
+99336,148,Tokyo monorail,Tokyo monorail Haneda kuukousen,139.7632862,35.59102281,12,0,99336
+99337,149,Rinkaisen,Tokyo rinkai kousoku tetsudou rinkaisen,139.7661296,35.62373301,13,0,99337
+99338,150,Touyou kousokusen,Touyou kousoku tetsudou Touyou kousokusen,140.0380473,35.719061,12,0,99338
+99339,151,Hakone tozan tetsudou tetsudousen,Hakone tozan tetsudou tetsudousen,139.099491,35.24597909,12,0,99339
+99340,152,Hokusou tetsudou Hokusousen,Hokusou tetsudou Hokusousen,140.037845,35.78346286,11,0,99340
+99341,153,Hotto spa/line,Yagan tetsudou Aizu Kinu kawasen,139.7013327,36.98733557,11,0,99341
+99344,151,Hakone tozan cable car,Hakone tozan tetsudou kousakusen,139.0414238,35.248167,15,0,99344
+99345,250,Haga/Utsunomiya LRT,Utsunomiya Haga raito railsen,139.945,36.554828,12,0,99345
+99401,154,Fuji kyuukousen,Fuji kyuukousen,138.8607561,35.55367112,12,0,99401
+99402,155,Hokuetsu kyuukou hokuhoku sen,Hokuetsu kyuukou hokuhoku sen,138.5909943,37.13966175,10,0,99402
+99403,156,Shina no tetsudousen,Shina no tetsudousen,138.3174292,36.41942391,10,0,99403
+99427,156,Kitashina no sen,Kitashina no sen,138.2105017,36.75530604,11,0,99403
+99404,157,Ueda dentetsu Besshosen,Ueda dentetsu Besshosen,138.2109223,36.37625258,13,0,99404
+99405,158,Nagano dentetsu Naganosen,Nagano dentetsu Naganosen,138.3042523,36.7018593,11,0,99405
+99406,158,Nagano dentetsu Yashiro sen,Nagano dentetsu Yashiro sen,138.2119355,36.59924925,12,2,99406
+99407,159,Kamikouchisen,Arupiko koutsuu Kamikouchisen,137.8973825,36.21371738,12,0,99407
+99408,160,Toyama chitetsu honsen,Toyama chitetsu honsen,137.3897613,36.78988244,11,0,99408
+99409,160,Toyama chitetsuritsu yamasen,Toyama chitetsuritsu yamasen,137.3705508,36.63259704,12,0,99409
+99410,160,Toyama chitetsu fuji Koshi/ue takisen,Toyama chitetsu fuji Koshi/ue takisen,137.252526,36.65497801,12,0,99410
+99411,161,Kamioka tetsudou Kamiokasen,Kamioka tetsudou Kamiokasen,137.2728078,36.40433317,12,2,99411
+99412,162,Kurobe kyoukoku tetsudou honsen,Kurobe kyoukoku tetsudou honsen,137.6293364,36.77139821,12,0,99412
+99413,160,Toyama chitetsu shinaisen [1/2 keitou],Toyama chitetsu shinaisen,137.2104899,36.68749219,14,0,99413
+99422,160,Toyama chitetsu Toyama toshinsen [3 keitou (kanjousen)],Toyama chitetsu Toyama toshinsen,137.2128868,36.69553915,15,0,99413
+99414,163,Man'yousen,Man'yousen,137.0519879,36.76865393,13,0,99414
+99415,160,Toyamakousen,Toyamakousen,137.23409,36.761212,13,0,99415
+99416,165,Hokuriku tetsudou Ishikawasen,Hokuriku tetsudou Ishikawasen,136.6276302,36.50748931,12,0,99416
+99417,165,Hokuriku tetsudou Asano kawa sen,Hokuriku tetsudou Asano kawa sen,136.6412445,36.61101108,13,0,99417
+99423,244,Nipponkai hisui line,Nipponkai hisui line,138.0056284,37.09275022,10,0,99417
+99424,244,Myoukou wa ne u ma line,Myoukou wa ne u ma line,138.0056284,37.09275022,10,0,99417
+99425,245,Ai no kaze to Yama tetsudousen,Ai no kaze to Yama tetsudousen,137.2146129,36.68415994,10,0,99417
+99426,246,IR Ishikawa tetsudousen,IR Ishikawa tetsudou kabushiki kaisha,136.6,36.5,10,0,99417
+99418,166,Noto tetsudou Nanaosen,Noto tetsudou Nanaosen,136.9044154,37.12448507,11,0,99418
+99419,167,Echizen tetsudou Katsuyama Eiheijisen,Echizen tetsudou Katsuyama Eiheijisen,136.3513615,36.08641898,11,0,99419
+99420,167,Echizen tetsudou sankoku Awarasen,Echizen tetsudou sankoku Awarasen,136.1919527,36.16279193,11,0,99420
+99421,168,Fukui tetsudou Fukutake sen,Fukui tetsudou Fukutake sen,136.2068054,36.01077557,12,0,99421
+99428,251,Happy line Fukuisen,Happy line Fukuisen,136.3,36,9,0,99426
+99501,169,Izu kyuukousen,Izu kyuukousen,139.0415898,34.82442966,11,0,99501
+99502,128,Izu Hakone tetsudou sunzusen,Izu Hakone tetsudou sunzusen,138.9315606,35.05660799,12,0,99502
+99503,170,Gakunan tetsudousen,Gakunan tetsudousen,138.7141214,35.15955767,13,0,99503
+99504,171,Shizuoka tetsudou Shizuoka Shimizusen,Shizuoka tetsudou Shizuoka Shimizusen,138.4390581,34.99815891,12,0,99504
+99505,172,Tenryuu Hamanakosen,Tenryuu Hamanako tetsudou Tenryuu Hamanakosen,137.7304712,34.82776372,10,0,99505
+99506,173,Enshuu tetsudou tetsudousen,Enshuu tetsudou tetsudousen,137.7761985,34.7815717,12,0,99506
+99507,174,Ooigawa tetsudou Ooigawa honsen,Ooigawa tetsudou Ooigawa honsen,138.1072522,34.96974307,11,0,99507
+99508,174,Minamiarupusu apu to line,Ooigawa tetsudou Ikawasen,138.1617609,35.16819152,12,0,99508
+99509,175,A onamisen,Nishi Nagoyakousen,136.8650634,35.12536651,12,0,99509
+99510,176,Toukai koutsuu jigyou jouhokusen,Toukai koutsuu jigyou jouhokusen,136.8966625,35.22929996,13,0,99510
+99511,177,Aichi kanjou tetsudousen,Aichi kanjou tetsudousen,137.1221882,35.12130634,10,0,99511
+99512,178,Rinimo,Toubu kyuuryousen,137.0600158,35.17115619,13,0,99512
+99513,179,Nagoya shiei chikatetsu Higashiyamasen,Nagoya shiei chikatetsu Higashiyamasen,136.9226337,35.16914033,12,0,99513
+99514,179,Nagoya shiei chikatetsu meijousen,Nagoya shiei chikatetsu meijousen,136.9328974,35.16054372,12,0,99514
+99515,179,Nagoya shiei chikatetsu meikousen,Nagoya shiei chikatetsu meikousen,136.8896685,35.12510133,13,0,99515
+99516,179,Nagoya shiei chikatetsu Tsurumaisen,Nagoya shiei chikatetsu Tsurumaisen,136.9361169,35.17099011,12,0,99516
+99517,179,Nagoya shiei chikatetsu sakura tsuusen,Nagoya shiei chikatetsu sakura tsuusen,136.9382244,35.14066755,12,0,99517
+99518,179,Nagoya shiei chikatetsujou Iidasen,Nagoya shiei chikatetsujou Iidasen,136.929713,35.20122208,15,0,99518
+99519,180,Peach liner,Touka dai shinkoutsuu,136.9585551,35.29823353,13,2,99519
+99520,181,Toyohashi tetsudou Atsumisen,Toyohashi tetsudou Atsumisen,137.3303607,34.70354168,12,0,99520
+99521,181,Toyohashi tetsudou Higashida honsen,Toyohashi tetsudou Higashida honsen,137.4057546,34.76500606,14,0,99521
+99522,181,Toyohashi tetsudou undou kouen zensen,Toyohashi tetsudou undou kouen zensen,137.4220566,34.76186984,16,2,99522
+99523,182,Yutori- to line,Guide way bus Shidamisen,136.9611979,35.20558123,13,0,99523
+99524,183,Meichi tetsudou meichisen,Meichi tetsudou meichisen,137.4120125,35.38280304,12,0,99524
+99525,184,Nagara kawa tetsudou Koshi bi Minamisen,Nagara kawa tetsudou Koshi bi Minamisen,136.9272076,35.71007664,10,0,99525
+99526,185,Tarumi tetsudou Tarumi sen,Tarumi tetsudou Tarumi sen,136.6283188,35.51524594,11,0,99526
+99528,186,Sangi tetsudou Sangisen,Sangi tetsudou Sangisen,136.544136,35.08747244,11,0,99528
+99529,186,Sangitetsu Douhokuzeisen,Sangitetsu Douhokuzeisen,136.5984984,35.09462668,12,0,99529
+99530,187,Ise tetsudou Isesen,Ise tetsudou Isesen,136.5523658,34.83391616,12,0,99530
+99531,188,Iga tetsudou Igasen,Iga tetsudou Igasen,136.1396261,34.73336053,12,0,99531
+99532,189,Yourou tetsudou Yourousen,Yourou tetsudou Yourousen,136.6223994,35.26596009,11,0,99532
+99601,190,Oumi tetsudou honsen,Oumi tetsudou honsen,136.2109758,35.15504249,10,0,99601
+99602,190,Oumi tetsudou Tagasen,Oumi tetsudou Tagasen,136.2677014,35.23325261,14,0,99602
+99603,190,Oumi tetsudou Youkaichisen,Oumi tetsudou Youkaichisen,136.1504219,35.11096374,13,0,99603
+99604,191,Shigaraki kougen tetsudou Shigarakisen,Shigaraki kougen tetsudou Shigarakisen,136.0938447,34.91316865,12,0,99604
+99605,192,Sagano kankousen,Sagano kankousen,135.6516844,35.02158814,12,0,99605
+99606,193,Eizan dentetsu Eizan honsen,Eizan dentetsu Eizan honsen,135.7908797,35.05000422,13,0,99606
+99607,193,Eizan dentetsu Kuramasen,Eizan dentetsu Kuramasen,135.7789774,35.08616881,13,0,99607
+99608,194,Miya Fuku sen,Miya Fuku sen,135.1450786,35.42665061,11,0,99608
+99609,194,Miya Yutaka sen,Miya Yutaka sen,135.0214671,35.58009666,10,0,99609
+99653,194,Miya Mai sen,Miya Mai sen,135.2654791,35.49972479,11,0,99609
+99610,195,Kyoto shiei chikatetsu Karasuma sen,Kyoto shiei chikatetsu Karasuma sen,135.7655673,35.01633354,12,0,99610
+99611,195,Kyoto shiei chikatetsu touzaisen,Kyoto shiei chikatetsu touzaisen,135.7661215,34.97917108,12,0,99611
+99612,196,Keifuku dentetsu Arashiyama honsen,Keifuku dentetsu Arashiyama honsen,135.7102578,35.0127135,13,0,99612
+99613,196,Keifuku dentetsu Kitanosen,Keifuku dentetsu Kitanosen,135.7124019,35.02593705,14,0,99613
+99614,197,Kita Osaka kyuukou dentetsu,Kita Osaka kyuukou dentetsu,135.4954616,34.78992724,12,0,99614
+99616,198,Senboku kousoku tetsudousen,Senboku kousoku tetsudousen,135.4892352,34.50927756,12,0,99616
+99617,199,Mizuma tetsudou Mizuma sen,Mizuma tetsudou Mizuma sen,135.3691331,34.42801129,13,0,99617
+99618,249,Osaka metro midou sujisen,Kousoku denki kidou dai1 gou sen,135.5118377,34.67464546,11,0,99618
+99619,249,Osaka metro Tanimachisen,Kousoku denki kidou dai2 gou sen,135.5527319,34.67567108,12,0,99619
+99620,249,Osaka metro yontsu hashisen,Kousoku denki kidou dai3 gou sen,135.4936511,34.65791996,13,0,99620
+99621,249,Osaka metro chuuousen,Kousoku denki kidou dai4 gou sen,135.4957468,34.66777349,12,0,99621
+99622,249,Osaka metro Sennichimaesen,Kousoku denki kidou dai5 gou sen,135.5153002,34.6767151,13,0,99622
+99623,249,Osaka metro Sakai sujisen,Kousoku denki kidou dai6 gou sen,135.5083,34.67762312,13,0,99623
+99624,249,Osaka metro Nagahori Tsurumi ryokuchisen,Kousoku denki kidou dai7 gou sen,135.5382456,34.69274888,12,0,99624
+99652,249,Osaka metro Imasato sujisen,Kousoku denki kidou dai8 gou sen,135.5502239,34.71778192,13,0,99624
+99625,249,Osaka metro Nankou port townsen,Osaka shi kousoku denki kidou Nankou port townsen,135.4409309,34.62838186,13,0,99625
+99626,201,Osaka monorailsen,Osaka monorailsen,135.5244954,34.78906136,12,0,99626
+99627,201,Osaka monorail Saitosen,Kokusai bunka kouen toshisen,135.5270888,34.83077567,13,0,99627
+99628,202,Hankai den ki Kamimachisen,Hankai den ki Kamimachisen,135.504187,34.62745795,14,0,99628
+99629,202,Hankai den ki hankaisen,Hankai den ki hankaisen,135.4809414,34.59887028,12,0,99629
+99630,203,Koube kousoku touzaisen,Koube kousoku touzaisen,135.1727403,34.67795666,13,0,99630
+99631,203,Koube kousoku nanbokusen,Koube kousoku nanbokusen,135.1673864,34.67788463,16,0,99631
+99632,204,Arimasen,Shintetsu Arimasen,135.1850569,34.75245997,12,0,99632
+99633,204,Mitasen,Shintetsu Mitasen,135.2221379,34.85009861,12,0,99633
+99634,204,Kouen toshisen,Shintetsu kouen toshisen,135.2068426,34.89567764,13,0,99634
+99635,204,Aousen,Shintetsu Aousen,135.0190351,34.79456506,11,0,99635
+99636,211,Kita kamisen,Koube shiei chika tetsuhoku shinsen,135.17142,34.761691,12,0,99636
+99637,206,San'You dentetsu honsen,San'You dentetsu honsen,134.8841417,34.74729359,10,0,99637
+99638,206,San'You dentetsu Aboshi sen,San'You dentetsu Aboshi sen,134.628993,34.79619357,13,0,99638
+99615,207,Nose dentetsu myoukensen,Nose dentetsu myoukensen,135.4237989,34.87230522,12,0,99640
+99640,207,Nose dentetsu Nisseisen,Nose dentetsu Nisseisen,135.402694,34.9008128,14,0,99640
+99642,208,Miki tetsudou Mikisen,Miki tetsudou Mikisen,134.9390908,34.79860467,13,2,99642
+99643,209,Houjou tetsudou Houjousen,Houjou tetsudou Houjousen,134.8638858,34.89497888,12,0,99643
+99644,210,Chizu kyuukou Chizusen,Chizu kyuukou Chizusen,134.3268128,35.09441854,10,0,99644
+99645,211,Koube shiei chikatetsu Seishinsen,Koube shiei chikatetsu Seishinsen,135.0688894,34.68307242,12,0,99645
+99646,211,Koube shiei chikatetsu Yamatesen,Koube shiei chikatetsu Yamatesen,135.1714744,34.68032212,13,0,99646
+99647,211,Yume kamome,Koube shiei chikatetsu kaigansen,135.1688599,34.67065905,13,0,99647
+99648,212,Port liner,Koube shinkoutsuu Pootoairandosen,135.212604,34.67033354,13,0,99648
+99649,212,Rokkou liner,Koube shinkoutsuu roku kou islandsen,135.2677847,34.70298944,14,0,99649
+99650,213,Kishuu tetsudousen,Kishuu tetsudousen,135.1561255,33.89542811,14,0,99650
+99651,214,Kishigawasen,Wakayama dentetsu Kishigawasen,135.2408019,34.22928668,12,0,99651
+99701,215,Wakasasen,Wakasa tetsudou Wakasasen,134.3023643,35.37899167,12,0,99701
+99702,216,Kita Matsuesen,Ichibata densha kita Matsuesen,132.8972022,35.45774737,11,0,99702
+99703,216,Ookoso sen,Ichibata densha taishasen,132.7302839,35.38956501,12,0,99703
+99704,217,Mizushima honsen,Mizushima rinkai tetsudou Mizushima honsen,133.7478599,34.56420735,13,0,99704
+99705,218,Ibarasen,Ibara tetsudou Ibarasen,133.5574914,34.61669576,11,0,99705
+99706,219,Higashiyamasen,Okayama den ki Higashiyama honsen,133.9315882,34.66244006,15,0,99706
+99707,219,Kiyoterukyousen,Okayama den ki Kiyoterukyousen,133.9240087,34.6585708,15,0,99707
+99708,220,Sky rail midori sakasen,Hiroshima tankyori koutsuu Seno sen,132.593324,34.42745864,15,2,99708
+99709,221,Asu tram line,Hiroshima kousoku koutsuu Hiroshima shinkoutsuu 1 gou sen,132.4335823,34.43909913,12,0,99709
+99710,222,Hiroden 1 gou sen (Ujina sen),Hiroden 1 gou sen (Ujina sen),132.4635322,34.38007803,13,0,99710
+99711,222,Hiroden 2 gou sen (Miyajima sen),Hiroden 2 gou sen (Miyajima sen),132.3858272,34.37150722,12,0,99711
+99712,222,Hiroden 3 gou sen,Hiroden 3 gou sen,132.4524421,34.3815225,13,0,99712
+99713,222,Hiroden 5 gou sen (kaijissen),Hiroden 5 gou sen (kaijissen),132.4676659,34.37814055,13,0,99713
+99714,222,Hiroden 6 gou sen (Eba sen),Hiroden 6 gou sen (Eba sen),132.454292,34.38857229,14,0,99714
+99715,222,Hiroden 7 gou sen,Hiroden 7 gou sen,132.4529,34.383,13,0,99715
+99716,222,Hiroden 8 gou sen (Yokogawa sen),Hiroden 8 gou sen (Yokogawa sen),132.442765,34.39115629,14,0,99716
+99717,222,Hiroden 9 gou sen (Shirashima sen),Hiroden 9 gou sen (Shirashima sen),132.4641667,34.40080872,15,0,99717
+99718,223,Nishikigawa seiryuusen,Nishikigawa tetsudou Nishikigawa seiryuusen,132.0590467,34.20744595,11,0,99718
+99801,224,Awa Muroto seaside line,Asa kaigan tetsudou Asa Azuma sen,134.3112574,33.57350417,13,0,99801
+99802,225,Kotoden Kotohirasen,Kotoden Kotohirasen,133.962144,34.26212761,11,0,99802
+99803,225,Kotoden choubisen,Kotoden choubisen,134.0973672,34.30701005,12,0,99803
+99804,225,Kotoden Shido sen,Kotoden Shido sen,134.1165716,34.34515193,12,0,99804
+99805,226,Iyo tetsudou gun chuusen,Iyo tetsudou gun chuusen,132.7298202,33.80853562,12,0,99805
+99806,226,Iyo tetsudou Takahamasen,Iyo tetsudou Takahamasen,132.7276955,33.86370357,13,0,99806
+99807,226,Iyo tetsudou yoko Kawaranosen,Iyo tetsudou yoko Kawaranosen,132.8235333,33.81259213,12,0,99807
+99808,226,Iyo tetsudou kanjousen (1 keitou),Iyo tetsudou 1 keitou,132.7622371,33.84489562,14,0,99808
+99809,226,Iyo tetsudou kanjousen (2 keitou),Iyo tetsudou 2 keitou,132.7626663,33.84375503,15,0,99809
+99810,226,Iyo tetsudou shi ekisen (3 keitou),Iyo tetsudou 3 keitou,132.7722681,33.84300174,14,0,99810
+99811,226,Iyo tetsudou Matsuyama eki zensen (5 keitou),Iyo tetsudou 5 keitou,132.7686249,33.84361142,14,0,99811
+99812,226,Iyo tetsudou Honchousen (6 keitou),Iyo tetsudou 6 keitou,132.7694636,33.8480866,14,0,99812
+99814,227,Nakamura sen,Tosa kuroshio tetsudou Nakamurasen,133.0498857,33.09467023,11,0,99814
+99815,227,Sukumosen,Tosa kuroshio tetsudou Sukumosen,132.8310545,32.96260048,11,0,99815
+99816,227,Gomen/naharisen,Tosa kuroshio tetsudou gomen/naharisen,133.8252165,33.51597712,11,0,99816
+99817,228,Gomensen,Tosa dentetsu gomensen,133.5993362,33.56862859,13,0,99817
+99818,228,Inosen,Tosa dentetsu Inosen,133.4919017,33.55242239,12,0,99818
+99819,228,Sanbashisen,Tosa dentetsu sanbashisen,133.5465588,33.55246841,14,0,99819
+99901,229,Amagi tetsudou,Amagi tetsudou,130.5881801,33.41617993,12,0,99901
+99902,230,Ida sen,Heisei Chikuhou tetsudou Ida sen,130.7604366,33.70085453,12,0,99902
+99903,230,Itodasen,Heisei Chikuhou tetsudou Itodasen,130.7887319,33.65906881,13,0,99903
+99904,230,Tagawasen,Heisei Chikuhou tetsudou Tagawasen,130.9010037,33.66604799,12,0,99904
+99928,230,Mojikou retro kankousen,Heisei Chikuhou tetsudou Mojikou retro kankousen,130.9659488,33.95269438,15,0,99904
+99905,231,Fukuoka shiei chikatetsu kuukousen,Fukuoka shiei chikatetsu kuukousen,130.3838128,33.59356837,12,0,99905
+99906,231,Fukuoka shiei chikatetsu Hakozakisen,Fukuoka shiei chikatetsu Hakozakisen,130.4171163,33.61482657,14,0,99906
+99907,231,Fukuoka shiei chikatetsu Nanakuma sen,Fukuoka shiei chikatetsu Nanakuma sen,130.3667894,33.5670827,13,0,99907
+99908,232,Kitakyuushuu monorail,Kitakyuushuu kousoku tetsudou,130.8735106,33.8560952,13,0,99908
+99909,233,Chikuhou denki tetsudousen,Chikuhou denki tetsudousen,130.7319842,33.824256,12,0,99909
+99910,234,Nishi Kyuushuusen (Arita~ Imari),Matsuura tetsudou nishi Kyuushuusen (Arita~ Imari),129.8679219,33.22886097,12,0,99910
+99911,234,Nishi Kyuushuusen (Imari~ Sasebo),Matsuura tetsudou nishi Kyuushuusen (Imari~ Sasebo),129.7346398,33.28337205,11,0,99911
+99912,235,Shimabara tetsudousen,Shimabara tetsudousen,130.1919946,32.76827488,11,0,99912
+99913,236,Nagasaki den ki 1 keitou,Nagasaki den ki 1 keitou,129.8683887,32.76872904,13,0,99913
+99914,236,Nagasaki den ki 3 keitou,Nagasaki den ki 3 keitou,129.8705408,32.76816252,13,0,99914
+99915,236,Nagasaki den ki 4 keitou,Nagasaki den ki 4 keitou,129.8841648,32.7476046,15,0,99915
+99916,236,Nagasaki den ki 5 keitou,Nagasaki den ki 5 keitou,129.8816103,32.74553392,14,0,99916
+99917,237,Kumamoto dentetsu honsen,Kumamoto dentetsu honsen,130.7298068,32.85062225,13,0,99917
+99918,237,Kumamoto dentetsujou Kumamotosen,Kumamoto dentetsujou Kumamotosen,130.709079,32.82357091,14,0,99918
+99919,238,Takamorisen,Minamiaso tetsudou Takamorisen,131.0451261,32.84393957,12,0,99919
+99920,239,Yu zensen,Kuma kawa tetsudou Yunomaesen,130.8811357,32.23914364,11,0,99920
+99921,240,Hisatsu orenji tetsudousen,Hisatsu orenji tetsudousen,130.3913727,32.16841797,10,0,99921
+99922,241,Kumamoto shiden A keitou,Kumamoto shiden A keitou,130.7221101,32.7910422,13,0,99922
+99923,241,Kumamoto shiden B keitou,Kumamoto shiden B keitou,130.7203426,32.79798979,13,0,99923
+99925,242,Kagoshima shiden 1 keitou,Kagoshima shiden 1 keitou,130.5431422,31.56371049,13,0,99925
+99926,242,Kagoshima shiden 2 keitou,Kagoshima shiden 2 keitou,130.5507184,31.58154362,14,0,99926
+99927,243,Yui rail,Okinawa toshi monorailsen,127.6881091,26.21229379,13,0,99927
